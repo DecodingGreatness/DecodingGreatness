@@ -2,6 +2,12 @@
 
 A recent Le Wagon bootcamp graduate that looks to tackle real business problems as a full stack developer.
 
+### Work
+- 🔭 I’m currently working on parabilities http://www.parabilities.com/
+- 🌱 I’m currently contemplating on learning Python and Flutter
+- 📫 How to reach me: pythoned77@gmail.com
+- ⚡ Fun fact: I enjoy doing aikido https://www.aikidoshudokan.sg/
+
 <!--
 **DecodingGreatness/DecodingGreatness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
