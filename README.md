@@ -1,4 +1,6 @@
-### Hi 👋, I'm Edward, a recent Le Wagon bootcamp graduate. Looking forward to tackle real business problems as a full stack developer.
+### Hi 👋, I'm Edward
+
+A recent Le Wagon bootcamp graduate that looks to tackle real business problems as a full stack developer.
 
 <!--
 **DecodingGreatness/DecodingGreatness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
